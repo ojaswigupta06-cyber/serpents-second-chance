@@ -1,3 +1,4 @@
+
 # 🐍 Serpent's Second Chance
 
 > **Every roll changes your fate. Every challenge is a chance to fight back.**
@@ -36,7 +37,14 @@ The goal is simple:
 - 🔄 Scene-based game flow
 - 💾 Persistent game-state management between scenes
 
----
+## Screenshots
+<img width="1037" height="828" alt="Screenshot 2026-08-25 182955" src="https://github.com/user-attachments/assets/f3ab84fd-e8f6-4115-9205-0a83f6f30062" />
+<img width="1164" height="653" alt="IntroScene" src="https://github.com/user-attachments/assets/a33392bc-777e-41e0-9f98-27a3502d0728" />
+<img width="817" height="460" alt="Welcome Scene" src="https://github.com/user-attachments/assets/ad27e99f-7019-4e99-b2a7-0f2eddb9170b" />
+<img width="1192" height="678" alt="BoardScene" src="https://github.com/user-attachments/assets/1254db22-e58d-4773-96ee-e3e66d013a96" />
+<img width="952" height="528" alt="AvoidFOScene" src="https://github.com/user-attachments/assets/2210f3ff-6ae3-4755-a6c5-023c31b68620" />
+<img width="812" height="455" alt="MemoryCardScene" src="https://github.com/user-attachments/assets/cf55b7d0-1459-4d76-97cc-65bc21b8a1a2" />
+<img width="818" height="455" alt="HangmanScene" src="https://github.com/user-attachments/assets/21227acc-2849-46a9-9de2-577b748b0c82" />
 
 ## 🕹️ Gameplay Flow
 
